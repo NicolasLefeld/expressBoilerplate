@@ -30,6 +30,7 @@ You will find:
 * Use eslint, its a file formater. You'll use a comercial format style, like the one used on [Airbnb](https://github.com/airbnb/javascript)
 * Store the dates with unix time format on the DB
 * If you need to work with arrays, numbers, objects, strings, etc. Check [lodash](https://lodash.com/)!
+* Use Morgan. It's a good tool for debuging.
 
 ## Information about the technologies used
 * Node JS
