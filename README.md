@@ -35,9 +35,10 @@ You will find:
 ## Information about the technologies used
 * Node JS
   * It's a environment of execution for JavaScript, based on on the V8 engine of Chrome.
-  * Lightweight and efficient 
+  * Lightweight, efficient and fast! 
+  * **Asynchronous and Event Driven** – it means that API call doesn't wait for results and doesn't block other calls. After it finish executing it will run an callback or notify about certain execution parts using events. Even though Node.js is running on single thread with event looping, it can handle more requests than, for example Apache HTTP server, because of using asynchronous non-blocking way of handling code execution.
 * Express
-  * Web framework for 
+  * It's a framework that provides a lot of tools for server handling. Setting up a server, routers, etc.
 * MongoDB
   * Non-SQL DataBase
 * Mongoose
